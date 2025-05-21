@@ -1,6 +1,7 @@
 ## Markas Mikalauskas
 - Just a guy who loves IoT and awesome software.
-- I use neovim btw.
+- Glove80 enjoyer.
+- I use neovim & arch btw.
 
 ### Where you can reach me
 <a href="https://mikey.lt"><img src="https://img.shields.io/badge/-mikey.lt-3a0b9e?style=flat&logo=GoogleChrome&logoColor=white"/></a>
